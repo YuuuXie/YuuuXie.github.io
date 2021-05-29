@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Bayesian force fields from active learning for simulation of inter-dimensional transformation of stanene</title>
+      <link>/publication/xie-2021-bayesian/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/xie-2021-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -107,6 +115,38 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Evolution of metastable structures at bimetallic surfaces from microscopy and machine-learning molecular dynamics</title>
+      <link>/publication/lim-2020-evolution/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/lim-2020-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multitask machine learning of collective variables for enhanced sampling of rare events</title>
+      <link>/publication/sun-2020-multitask/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sun-2020-multitask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-the-fly active learning of interpretable Bayesian force fields for atomistic rare events</title>
+      <link>/publication/vandermause-2020-fly/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/vandermause-2020-fly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral denoising for unsupervised analysis of correlated ionic transport</title>
+      <link>/publication/molinari-2020-spectral/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/molinari-2020-spectral/</guid>
+      <description></description>
     </item>
     
     <item>
