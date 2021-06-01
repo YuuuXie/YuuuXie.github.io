@@ -5,12 +5,27 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Machine learning interatomic potential</title>
+      <link>/project/mlp/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/project/mlp/</guid>
+      <description>&lt;h1 id=&#34;flare-interatomic-potential-built-by-gaussian-process-regression-and-bayesian-active-learning&#34;&gt;FLARE: Interatomic potential built by Gaussian process regression and Bayesian active learning&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;workflow_hierarchical.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Check our Python code here: &lt;a href=&#34;https://github.com/mir-group/flare&#34;&gt;https://github.com/mir-group/flare&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;flare-high-performance-c-code-for-sparse-gaussian-process-sgp-with-atomic-cluster-expansion-ace-descriptors&#34;&gt;FLARE++: High-performance C++ code for sparse Gaussian process (SGP) with atomic cluster expansion (ACE) descriptors&lt;/h1&gt;
+&lt;p&gt;Check our code here: &lt;a href=&#34;https://github.com/mir-group/flare_pp&#34;&gt;https://github.com/mir-group/flare_pp&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;application-stanene&#34;&gt;Application: Stanene&lt;/h1&gt;
+&lt;p&gt;Check our scripts here: &lt;a href=&#34;https://github.com/YuuuXie/Stanene_FLARE&#34;&gt;https://github.com/YuuuXie/Stanene_FLARE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Example Project</title>
