@@ -31,7 +31,34 @@
 &lt;p&gt;Give a talk about my &amp;ldquo;Mappd Gaussian Process&amp;rdquo; project @ MRS.&lt;/p&gt;
 &lt;h3 id=&#34;20196---summer-internship-at-lawrence-livermore-national-lab&#34;&gt;2019.6 - Summer internship at Lawrence Livermore National Lab&lt;/h3&gt;
 &lt;p&gt;Go to Livermore, California and do research there. California is a great place. I like the weather.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;llnl.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/recent-news/llnl_hub41f4c9d81c19b781a4d9460018faa69_320829_398545f9c4bfe9f952873716f9bb119a.jpeg 400w,
+               /post/recent-news/llnl_hub41f4c9d81c19b781a4d9460018faa69_320829_17ff167fd21461f9e58afbac0e2c432c.jpeg 760w,
+               /post/recent-news/llnl_hub41f4c9d81c19b781a4d9460018faa69_320829_1200x1200_fit_q75_lanczos.jpeg 1200w&#34;
+               src=&#34;/post/recent-news/llnl_hub41f4c9d81c19b781a4d9460018faa69_320829_398545f9c4bfe9f952873716f9bb119a.jpeg&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;20195---switch-program-applied-math---applied-physics&#34;&gt;2019.5 - Switch program: Applied Math ➡️  Applied Physics&lt;/h3&gt;
 &lt;p&gt;The CDH commitee of applied math suggested me to switch to applied physics since I&amp;rsquo;ve selected too many physics courses. I agreed to.&lt;/p&gt;
 &lt;h3 id=&#34;201884---arrive-at-harvard-and-participate-in-the-elp-program&#34;&gt;2018.8.4 - Arrive at Harvard and Participate in the ELP Program&lt;/h3&gt;
@@ -45,7 +72,34 @@
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
       <guid>/project/transport/</guid>
       <description>&lt;h1 id=&#34;spectraol-denoising&#34;&gt;Spectraol denoising&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;RealSystemFinal.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/transport/RealSystemFinal_hu0f8eb42c8189a3a1d003a09d044bd4d2_692003_25dc8efd795cf62ef9f65c2539e5c559.png 400w,
+               /project/transport/RealSystemFinal_hu0f8eb42c8189a3a1d003a09d044bd4d2_692003_59025dc6437b1af1325f391674b9d71a.png 760w,
+               /project/transport/RealSystemFinal_hu0f8eb42c8189a3a1d003a09d044bd4d2_692003_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/project/transport/RealSystemFinal_hu0f8eb42c8189a3a1d003a09d044bd4d2_692003_25dc8efd795cf62ef9f65c2539e5c559.png&#34;
+               width=&#34;760&#34;
+               height=&#34;276&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -56,22 +110,150 @@
       <guid>/project/mlp/</guid>
       <description>&lt;h1 id=&#34;flare&#34;&gt;FLARE&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Interatomic potential built by Gaussian process regression and Bayesian active learning&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;workflow_hierarchical.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/mlp/workflow_hierarchical_hu38cf7f95c918d3fabd9d4cb90f1c1ed8_61718_03b4ed2959825eed7d5b9f1b8af81518.png 400w,
+               /project/mlp/workflow_hierarchical_hu38cf7f95c918d3fabd9d4cb90f1c1ed8_61718_6b364e41c801eca37814401c4a9d823c.png 760w,
+               /project/mlp/workflow_hierarchical_hu38cf7f95c918d3fabd9d4cb90f1c1ed8_61718_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/project/mlp/workflow_hierarchical_hu38cf7f95c918d3fabd9d4cb90f1c1ed8_61718_03b4ed2959825eed7d5b9f1b8af81518.png&#34;
+               width=&#34;510&#34;
+               height=&#34;265&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Check our Python code here: &lt;a href=&#34;https://github.com/mir-group/flare&#34;&gt;https://github.com/mir-group/flare&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;flare-1&#34;&gt;FLARE++&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;High-performance C++ code for sparse Gaussian process (SGP) with atomic cluster expansion (ACE) descriptors&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;flare_pp.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/mlp/flare_pp_hu59d857b30d9aa68efe2b13f293de7380_98060_b198fb576da6d642a162143cbaaee43a.jpg 400w,
+               /project/mlp/flare_pp_hu59d857b30d9aa68efe2b13f293de7380_98060_88ae1b85537e6267216d91cdc69385c4.jpg 760w,
+               /project/mlp/flare_pp_hu59d857b30d9aa68efe2b13f293de7380_98060_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/project/mlp/flare_pp_hu59d857b30d9aa68efe2b13f293de7380_98060_b198fb576da6d642a162143cbaaee43a.jpg&#34;
+               width=&#34;674&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Check our code here: &lt;a href=&#34;https://github.com/mir-group/flare_pp&#34;&gt;https://github.com/mir-group/flare_pp&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;flightning&#34;&gt;Flightning&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;FLARE high-speed active learning (with LAMMPS uncertainty) (&amp;lt;&amp;ndash; FLARE Lightning)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;workflow.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/mlp/workflow_hu34ec332afd47cffb2cc7be0921a8f6e0_211875_52a7894b7c54f9592509836105d7e7a5.png 400w,
+               /project/mlp/workflow_hu34ec332afd47cffb2cc7be0921a8f6e0_211875_a683fcae4628f36c39256c6b1f0a90dc.png 760w,
+               /project/mlp/workflow_hu34ec332afd47cffb2cc7be0921a8f6e0_211875_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/project/mlp/workflow_hu34ec332afd47cffb2cc7be0921a8f6e0_211875_52a7894b7c54f9592509836105d7e7a5.png&#34;
+               width=&#34;760&#34;
+               height=&#34;674&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Check our code here: &lt;a href=&#34;https://github.com/mir-group/flightning&#34;&gt;https://github.com/mir-group/flightning&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;applications&#34;&gt;Applications&lt;/h1&gt;
 &lt;h2 id=&#34;stanene&#34;&gt;Stanene&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;stanene_production.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/mlp/stanene_production_huba09dff7c9acbf1bbbc4bb4c3228f8b3_119630_2a8fd8a00084e9b3cfe9eae9644da022.jpg 400w,
+               /project/mlp/stanene_production_huba09dff7c9acbf1bbbc4bb4c3228f8b3_119630_b429e8f5095652254cc2885455cb1077.jpg 760w,
+               /project/mlp/stanene_production_huba09dff7c9acbf1bbbc4bb4c3228f8b3_119630_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/project/mlp/stanene_production_huba09dff7c9acbf1bbbc4bb4c3228f8b3_119630_2a8fd8a00084e9b3cfe9eae9644da022.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;354&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Check our scripts here: &lt;a href=&#34;https://github.com/YuuuXie/Stanene_FLARE&#34;&gt;https://github.com/YuuuXie/Stanene_FLARE&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;silicon-carbide&#34;&gt;Silicon carbide&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;polytype.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;polytype.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -82,11 +264,92 @@
       <guid>/post/read-on-kindle/</guid>
       <description>&lt;p&gt;I love kindle but its 6-inch screen is torturous for reading paper. There&amp;rsquo;re some softwares that can crop those double column papers into kindle screen size. One problem would be sometimes you will have single column abstract/figures in the double column paper, that makes the cropping result problematic. Another unsatisfying aspect is the cropped chunks are all images, not text, so you can not select the words when you read them on kindle.&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s a tricky way to make us able to enjoy papers on kindle. For most published papers of recently years, when you go to the web page of the paper, you will find both buttons for its PDF and HTML versions, like Physical Review Letter (figure below), or, the HTML version is automatically loaded once you get access to the paper. Currently, I think almost all publishers have put the HTML version online together with the PDF file. (Only for those very old paper, from decades ago, can you only find PDF version)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;prl.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/read-on-kindle/prl_hu5e48a69f0b58cf271ce5a1ca09650516_11802_53e89e80f7a72e39f7d8e05d4ec781e7.png 400w,
+               /post/read-on-kindle/prl_hu5e48a69f0b58cf271ce5a1ca09650516_11802_cf4ade9be65a57b7d2b734109c838827.png 760w,
+               /post/read-on-kindle/prl_hu5e48a69f0b58cf271ce5a1ca09650516_11802_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/read-on-kindle/prl_hu5e48a69f0b58cf271ce5a1ca09650516_11802_53e89e80f7a72e39f7d8e05d4ec781e7.png&#34;
+               width=&#34;760&#34;
+               height=&#34;53&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Then looking at the HTML, you know what to do, because you can print HTML adapting to any page size that you want. In most cases, it works perfect with your browser printing, but sometimes the result seems to be funky, like below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;acs.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/read-on-kindle/acs_hu9f87c2359189f4dcdb9e29e7e536e2be_142433_383258a2d04f3c9e338bc283be7a7b38.png 400w,
+               /post/read-on-kindle/acs_hu9f87c2359189f4dcdb9e29e7e536e2be_142433_5812f7899c5640acb8e9f4ff796677d2.png 760w,
+               /post/read-on-kindle/acs_hu9f87c2359189f4dcdb9e29e7e536e2be_142433_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/read-on-kindle/acs_hu9f87c2359189f4dcdb9e29e7e536e2be_142433_383258a2d04f3c9e338bc283be7a7b38.png&#34;
+               width=&#34;600&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;The navigator occludes the figures or text, or you might have ads on the left/right side. Then I want to introduce a powerful tool called printfriendly. It eliminates those useless content in the webpage and also makes you flexible to delete any module in the page. It provides a Chrome extension, so that you only need to click the icon each time you want to print paper. Then for the same paper as shown in the above figure, we get the following result:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;print-friendly.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/read-on-kindle/print-friendly_hufef459af262f848693453315eee9aa8c_118739_234e8183efad584a598949cf6d623a0b.png 400w,
+               /post/read-on-kindle/print-friendly_hufef459af262f848693453315eee9aa8c_118739_656a966ac29824d14744821af3764f09.png 760w,
+               /post/read-on-kindle/print-friendly_hufef459af262f848693453315eee9aa8c_118739_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/read-on-kindle/print-friendly_hufef459af262f848693453315eee9aa8c_118739_234e8183efad584a598949cf6d623a0b.png&#34;
+               width=&#34;760&#34;
+               height=&#34;228&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Looks perfect! We just need to click &amp;ldquo;Print&amp;rdquo; button, and choose any paper size we want. I usually choose A5 and with scaling 100%-150% to fit my kindle, but you can adjust it flexibly.&lt;/p&gt;
 </description>
     </item>
@@ -137,8 +400,62 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/post/phd-memes/</guid>
       <description>&lt;h3 id=&#34;phd-comics&#34;&gt;PhD comics&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;phd_comics_1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;phd_comics_2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/phd-memes/phd_comics_1_hu016f8a74a54800bdf438cf6a396431ef_450252_68390e116151c54f3649662a43b1e7b6.png 400w,
+               /post/phd-memes/phd_comics_1_hu016f8a74a54800bdf438cf6a396431ef_450252_8c46611ccea910b730b87855c347e154.png 760w,
+               /post/phd-memes/phd_comics_1_hu016f8a74a54800bdf438cf6a396431ef_450252_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/phd-memes/phd_comics_1_hu016f8a74a54800bdf438cf6a396431ef_450252_68390e116151c54f3649662a43b1e7b6.png&#34;
+               width=&#34;488&#34;
+               height=&#34;490&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/phd-memes/phd_comics_2_hu7c2ee1def1cb36d3a3f09ef0c9318f7f_287709_4972b6da146749c2b624c6a4e08038d3.png 400w,
+               /post/phd-memes/phd_comics_2_hu7c2ee1def1cb36d3a3f09ef0c9318f7f_287709_eef04fd3c6591ef87cf756e0a78cb5d6.png 760w,
+               /post/phd-memes/phd_comics_2_hu7c2ee1def1cb36d3a3f09ef0c9318f7f_287709_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/phd-memes/phd_comics_2_hu7c2ee1def1cb36d3a3f09ef0c9318f7f_287709_4972b6da146749c2b624c6a4e08038d3.png&#34;
+               width=&#34;760&#34;
+               height=&#34;424&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;real-meanings-of-phd&#34;&gt;REAL meanings of Ph.D&lt;/h3&gt;
 &lt;p&gt;Permanent Head Damage&lt;/p&gt;
 &lt;p&gt;Permanently Hair Dropped-off&lt;/p&gt;

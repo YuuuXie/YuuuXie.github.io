@@ -19,22 +19,150 @@
       <guid>/project/mlp/</guid>
       <description>&lt;h1 id=&#34;flare&#34;&gt;FLARE&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Interatomic potential built by Gaussian process regression and Bayesian active learning&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;workflow_hierarchical.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/mlp/workflow_hierarchical_hu38cf7f95c918d3fabd9d4cb90f1c1ed8_61718_03b4ed2959825eed7d5b9f1b8af81518.png 400w,
+               /project/mlp/workflow_hierarchical_hu38cf7f95c918d3fabd9d4cb90f1c1ed8_61718_6b364e41c801eca37814401c4a9d823c.png 760w,
+               /project/mlp/workflow_hierarchical_hu38cf7f95c918d3fabd9d4cb90f1c1ed8_61718_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/project/mlp/workflow_hierarchical_hu38cf7f95c918d3fabd9d4cb90f1c1ed8_61718_03b4ed2959825eed7d5b9f1b8af81518.png&#34;
+               width=&#34;510&#34;
+               height=&#34;265&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Check our Python code here: &lt;a href=&#34;https://github.com/mir-group/flare&#34;&gt;https://github.com/mir-group/flare&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;flare-1&#34;&gt;FLARE++&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;High-performance C++ code for sparse Gaussian process (SGP) with atomic cluster expansion (ACE) descriptors&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;flare_pp.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/mlp/flare_pp_hu59d857b30d9aa68efe2b13f293de7380_98060_b198fb576da6d642a162143cbaaee43a.jpg 400w,
+               /project/mlp/flare_pp_hu59d857b30d9aa68efe2b13f293de7380_98060_88ae1b85537e6267216d91cdc69385c4.jpg 760w,
+               /project/mlp/flare_pp_hu59d857b30d9aa68efe2b13f293de7380_98060_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/project/mlp/flare_pp_hu59d857b30d9aa68efe2b13f293de7380_98060_b198fb576da6d642a162143cbaaee43a.jpg&#34;
+               width=&#34;674&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Check our code here: &lt;a href=&#34;https://github.com/mir-group/flare_pp&#34;&gt;https://github.com/mir-group/flare_pp&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;flightning&#34;&gt;Flightning&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;FLARE high-speed active learning (with LAMMPS uncertainty) (&amp;lt;&amp;ndash; FLARE Lightning)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;workflow.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/mlp/workflow_hu34ec332afd47cffb2cc7be0921a8f6e0_211875_52a7894b7c54f9592509836105d7e7a5.png 400w,
+               /project/mlp/workflow_hu34ec332afd47cffb2cc7be0921a8f6e0_211875_a683fcae4628f36c39256c6b1f0a90dc.png 760w,
+               /project/mlp/workflow_hu34ec332afd47cffb2cc7be0921a8f6e0_211875_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/project/mlp/workflow_hu34ec332afd47cffb2cc7be0921a8f6e0_211875_52a7894b7c54f9592509836105d7e7a5.png&#34;
+               width=&#34;760&#34;
+               height=&#34;674&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Check our code here: &lt;a href=&#34;https://github.com/mir-group/flightning&#34;&gt;https://github.com/mir-group/flightning&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;applications&#34;&gt;Applications&lt;/h1&gt;
 &lt;h2 id=&#34;stanene&#34;&gt;Stanene&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;stanene_production.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/mlp/stanene_production_huba09dff7c9acbf1bbbc4bb4c3228f8b3_119630_2a8fd8a00084e9b3cfe9eae9644da022.jpg 400w,
+               /project/mlp/stanene_production_huba09dff7c9acbf1bbbc4bb4c3228f8b3_119630_b429e8f5095652254cc2885455cb1077.jpg 760w,
+               /project/mlp/stanene_production_huba09dff7c9acbf1bbbc4bb4c3228f8b3_119630_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/project/mlp/stanene_production_huba09dff7c9acbf1bbbc4bb4c3228f8b3_119630_2a8fd8a00084e9b3cfe9eae9644da022.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;354&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Check our scripts here: &lt;a href=&#34;https://github.com/YuuuXie/Stanene_FLARE&#34;&gt;https://github.com/YuuuXie/Stanene_FLARE&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;silicon-carbide&#34;&gt;Silicon carbide&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;polytype.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;polytype.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     

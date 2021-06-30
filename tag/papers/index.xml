@@ -19,11 +19,92 @@
       <guid>/post/read-on-kindle/</guid>
       <description>&lt;p&gt;I love kindle but its 6-inch screen is torturous for reading paper. There&amp;rsquo;re some softwares that can crop those double column papers into kindle screen size. One problem would be sometimes you will have single column abstract/figures in the double column paper, that makes the cropping result problematic. Another unsatisfying aspect is the cropped chunks are all images, not text, so you can not select the words when you read them on kindle.&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s a tricky way to make us able to enjoy papers on kindle. For most published papers of recently years, when you go to the web page of the paper, you will find both buttons for its PDF and HTML versions, like Physical Review Letter (figure below), or, the HTML version is automatically loaded once you get access to the paper. Currently, I think almost all publishers have put the HTML version online together with the PDF file. (Only for those very old paper, from decades ago, can you only find PDF version)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;prl.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/read-on-kindle/prl_hu5e48a69f0b58cf271ce5a1ca09650516_11802_53e89e80f7a72e39f7d8e05d4ec781e7.png 400w,
+               /post/read-on-kindle/prl_hu5e48a69f0b58cf271ce5a1ca09650516_11802_cf4ade9be65a57b7d2b734109c838827.png 760w,
+               /post/read-on-kindle/prl_hu5e48a69f0b58cf271ce5a1ca09650516_11802_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/read-on-kindle/prl_hu5e48a69f0b58cf271ce5a1ca09650516_11802_53e89e80f7a72e39f7d8e05d4ec781e7.png&#34;
+               width=&#34;760&#34;
+               height=&#34;53&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Then looking at the HTML, you know what to do, because you can print HTML adapting to any page size that you want. In most cases, it works perfect with your browser printing, but sometimes the result seems to be funky, like below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;acs.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/read-on-kindle/acs_hu9f87c2359189f4dcdb9e29e7e536e2be_142433_383258a2d04f3c9e338bc283be7a7b38.png 400w,
+               /post/read-on-kindle/acs_hu9f87c2359189f4dcdb9e29e7e536e2be_142433_5812f7899c5640acb8e9f4ff796677d2.png 760w,
+               /post/read-on-kindle/acs_hu9f87c2359189f4dcdb9e29e7e536e2be_142433_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/read-on-kindle/acs_hu9f87c2359189f4dcdb9e29e7e536e2be_142433_383258a2d04f3c9e338bc283be7a7b38.png&#34;
+               width=&#34;600&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;The navigator occludes the figures or text, or you might have ads on the left/right side. Then I want to introduce a powerful tool called printfriendly. It eliminates those useless content in the webpage and also makes you flexible to delete any module in the page. It provides a Chrome extension, so that you only need to click the icon each time you want to print paper. Then for the same paper as shown in the above figure, we get the following result:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;print-friendly.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/read-on-kindle/print-friendly_hufef459af262f848693453315eee9aa8c_118739_234e8183efad584a598949cf6d623a0b.png 400w,
+               /post/read-on-kindle/print-friendly_hufef459af262f848693453315eee9aa8c_118739_656a966ac29824d14744821af3764f09.png 760w,
+               /post/read-on-kindle/print-friendly_hufef459af262f848693453315eee9aa8c_118739_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;/post/read-on-kindle/print-friendly_hufef459af262f848693453315eee9aa8c_118739_234e8183efad584a598949cf6d623a0b.png&#34;
+               width=&#34;760&#34;
+               height=&#34;228&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Looks perfect! We just need to click &amp;ldquo;Print&amp;rdquo; button, and choose any paper size we want. I usually choose A5 and with scaling 100%-150% to fit my kindle, but you can adjust it flexibly.&lt;/p&gt;
 </description>
     </item>
